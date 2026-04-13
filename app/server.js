@@ -1,6 +1,6 @@
 const http = require('http');
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 const ENV = process.env.APP_ENV || 'dev';
 
 const messages = {
